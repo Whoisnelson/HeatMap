@@ -1,0 +1,5 @@
+package com.example.heatmap
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
